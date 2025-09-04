@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Ng Zheng Xian, or NZX37
 
-<!--
-**NZX37/NZX37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Why do I have 37 in my username?
+https://www.youtube.com/watch?v=d6iQrh2TK98
 
-Here are some ideas to get you started:
+Why do I exist?
+- a student at NUS High School of Math and Science
+- a coder
+- a frontend dev
+- I also enjoy math and physics(Please dont complain if I cant do Navier-Stokes)
+- to drink coffee
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently use:
+- Python
+- HTML
+- C++
+
+I’m currently learning
+- JavaScript
+
+Ask me about
+- Projects you want to do
+- Repositories you think need improvement(all of them)
+- anything honestly
+  
+How to reach me:
+- email: zx.ngzhengxian@gmail.com
+
+Fun Facts:
+I know these profiles are meant to be super advanced and stuff but I dont like vibe coding and its chill. 
+Maybe I'll add more stuff later. Who knows?
