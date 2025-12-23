@@ -1,5 +1,7 @@
 ## Hi, I'm Ng Zheng Xian, or NZX37
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NZX37&locale=en&hide_title=false&langs_count=14&order=2&theme=dark&layout=compact" style="width: 100vw">
+
 Why do I have 37 in my username?
 https://www.youtube.com/watch?v=d6iQrh2TK98
 
