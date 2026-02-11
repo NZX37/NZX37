@@ -28,7 +28,9 @@ Ask me about
 - Projects you need web development for
 - Repositories you think need improvement(all of them)
 - Outreach Opportunities
-  
+
+ive been hesistant to put this here but https://nzx37port.vercel.app/
+
 How to reach me:
 - email: zx.ngzhengxian@gmail.com
 
