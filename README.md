@@ -1,4 +1,4 @@
-## Hi, I'm Ng Zheng Xian, or NZX37
+## NZX37
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darsh-io&locale=en&hide_title=false&langs_count=14&order=2&theme=dark&layout=compact" style="width: 100vw">
 
@@ -9,27 +9,14 @@ Personal Projects:
 https://nzx37.github.io/ZEROWIDTHSPACE/
 [MULTITOOL](in progress)
 
-Why do I exist?
-- a student at NUS High School
-- a coder(cpp, python)
-- a frontend dev(html, css, js)
-- I also enjoy math and science
-- to drink coffee
-
 I currently use:
 - Python
-- HTML
+- HTML/js/css
 - C++
-
-I’m currently learning
-- JavaScript
 
 Ask me about
 - Projects you need web development for
 - Repositories you think need improvement(all of them)
-- Outreach Opportunities
-
-ive been hesistant to put this here but https://nzx37port.vercel.app/
 
 How to reach me:
 - email: zx.ngzhengxian@gmail.com
