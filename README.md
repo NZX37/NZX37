@@ -1,7 +1,7 @@
 ![People Not Coding](https://visitor-badge.laobi.icu/badge?page_id=nzx37.nzx37)
 ## NZX37
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=darsh-io&locale=en&hide_title=false&langs_count=14&order=2&theme=dark&layout=compact" style="width: 100vw">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nzx37&locale=en&hide_title=false&langs_count=14&order=2&theme=dark&layout=compact" style="width: 100vw">
 
 Why do I have 37 in my username?
 https://www.youtube.com/watch?v=d6iQrh2TK98
