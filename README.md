@@ -1,4 +1,4 @@
-![People Not Coding](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_REPO)
+![People Not Coding](https://visitor-badge.laobi.icu/badge?page_id=nzx37.nzx37)
 ## NZX37
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darsh-io&locale=en&hide_title=false&langs_count=14&order=2&theme=dark&layout=compact" style="width: 100vw">
