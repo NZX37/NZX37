@@ -7,6 +7,7 @@ Why do I have 37 in my username?
 https://www.youtube.com/watch?v=d6iQrh2TK98
 
 Personal Projects:
+
 [ZWSP Copier]https://nzx37.github.io/ZEROWIDTHSPACE/
 
 [ytdlp-cli]https:///nzx37.github.io/ytdlpcli/
