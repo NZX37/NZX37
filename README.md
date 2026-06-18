@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=people%20not%20coding&left_color=%23000000&right_color=%23006eff&logo=github)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nzx37.visitor-badge&left_text=people%20not%20coding&left_color=%23000000&right_color=%23006eff&logo=github)
 ## NZX37
 
 Hello, I'm Zheng Xian, or NZX37, currently studying at NUS High School Of Math and Science(Class of 2030)
