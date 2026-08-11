@@ -31,7 +31,7 @@ Hello, I'm Zheng Xian, or NZX37, currently studying at NUS High School Of Math a
 - internships
 
 ## How to reach me:
-- email: zx.ngzhengxian@gmail.com
+- email: ng@zhengxian.org
 - second email : h2510112@nushigh.edu.sg
   
 Fun Facts:
