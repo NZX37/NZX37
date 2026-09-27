@@ -9,24 +9,28 @@ Hello, I'm Zheng Xian, or NZX37, currently studying at NUS High School Of Math a
 
 *  Use Python libraries like keyboard/mouse, pynput or pyagme etc. to make a program to do tedious tasks
 *  IO with C++
-*  [ESP](https://www.espressif.com/en/products/socs/esp32) family of microcontrollers using C++(wow so many uses for C++)
+*  [ESP](https://www.espressif.com/en/products/socs/esp32) family of microcontrollers using C++(wow so many uses for C++, I love C++)
 *  know a proper amount of html/js/css to not be kicked off a team
 *  Model for 3D prints with [Fusion](https://www.autodesk.com/education/edu-software/fusion?msockid=321d74c0b19563b01ba766b8b59565e3) but not have a printer thus use [MakeIT](https://www.nlb.gov.sg/main/services/MakeIT-at-Libraries)'s printers
-*  Try to make PCBs for a macropad with [kiCad](https://www.kicad.org/) without ever owning a macropad
+*  PCB design for a macropad with [kiCad](https://www.kicad.org/) without ever owning a macropad
+*  PCB, CAD and firmware for [yousnoozeyousolve](https://github.com/NZX37/ysys)
 
 ## Personal Projects:
 
-[ZWSP Copier](https://nzx37.github.io/ZEROWIDTHSPACE/)
+[ZWSP Copier](https://nzx37.github.io/ZEROWIDTHSPACE/) Copies ZWSP into your clipboard
 
-[ytdlp-cli](https://github.com/NZX37/ytdlpcli/)
+[yousnoozeyousolve](https://github.com/NZX37/ysys), an alarm clock which forces you to solve math problems to snooze
+
+[ytdlp-cli](https://github.com/NZX37/ytdlpcli/) piracy!!!!
 
 ## "Skills"
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![ESP32](https://img.shields.io/badge/esp32-%231572B6.svg?style=for-the-badge&logoColor=red)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![ESP32](https://img.shields.io/badge/esp32-%231572B6.svg?style=for-the-badge&logoColor=red) ![KiCAD](https://img.shields.io/badge/KiCAD-%231572B6.svg?style=for-the-badge&logoColor=blue)
 ![](https://github-readme-stats.shion.dev/api?username=nzx37&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nzx37&locale=en&hide_title=false&langs_count=14&order=2&theme=dark&layout=compact" style="width: 30vw">
 
 ## Ask me about
-- Projects you need web development for(websites, apps)
+- Projects you need CAD or PCBs for
+- Projects you need web dev for(if u really want)
 - Repositories you think need improvement
 - internships
 
